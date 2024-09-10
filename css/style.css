@@ -214,6 +214,10 @@ footer a {
     border: solid var(--light-brown) 3px;
 }
 
+.extend-bottom {
+    padding-bottom: 21em;
+}
+
 .button-change {
     display: inline-block;
     -webkit-transition: transform 1s, color 500ms linear, border-color 500ms linear;
